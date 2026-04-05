@@ -9,24 +9,24 @@
     xxxxxxxxxxxxxx
 
 ## Tecnologías implementadas
-Lenguajes
+**Lenguajes**
 
     Kotlin
     Java
 
-Frameworks y librerías
+**Frameworks y librerías**
 
     Jetpack Compose Multiplatform
     Material3
     Kotlin Coroutines
     AndroidX Lifecycle
 
-Build y configuración
+**Build y configuración**
 
     Gradle (Kotlin DSL)
     TOML
     
-## Autores
+## **Autores**
     Víctor René Lopez Huezo
     Alan Enrique de Sedas Villar
     Nayeli Aimy Santacruz Ayala
